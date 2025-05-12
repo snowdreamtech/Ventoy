@@ -185,11 +185,11 @@ $RECYCLE.BIN/
 
 #Custom directory
 System Volume Information/
-iso
+
 
 # Custom files
 VentoyPlugson.log
-
+iso/*
 
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,vim,emacs,visualstudiocode,git,tortoisegit
