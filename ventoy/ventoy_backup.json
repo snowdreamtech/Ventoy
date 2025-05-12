@@ -1,0 +1,48 @@
+{
+    "control":[
+        { "VTOY_MENU_LANGUAGE": "zh_CN" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/iso" }
+    ],
+    "control_legacy":[
+        { "VTOY_MENU_LANGUAGE": "zh_CN" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/iso" }
+    ],
+    "control_uefi":[
+        { "VTOY_MENU_LANGUAGE": "zh_CN" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/iso" }
+    ],
+    "control_ia32":[
+        { "VTOY_MENU_LANGUAGE": "zh_CN" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/iso" }
+    ],
+    "control_aa64":[
+        { "VTOY_MENU_LANGUAGE": "zh_CN" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/iso" }
+    ],
+    "control_mips":[
+        { "VTOY_MENU_LANGUAGE": "zh_CN" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/iso" }
+    ],
+    "theme":{
+        "file":[
+            "/ventoy/themes/Tela-2k/theme.txt",
+            "/ventoy/themes/Tela-4k/theme.txt",
+            "/ventoy/themes/Tela-1080p/theme.txt",
+            "/ventoy/themes/Vimix-2k/theme.txt",
+            "/ventoy/themes/Vimix-4k/theme.txt",
+            "/ventoy/themes/Vimix-1080p/theme.txt",
+            "/ventoy/themes/Stylish-2k/theme.txt",
+            "/ventoy/themes/Stylish-4k/theme.txt",
+            "/ventoy/themes/Stylish-1080p/theme.txt",
+            "/ventoy/themes/solarized-dark/theme.txt",
+            "/ventoy/themes/Ventoy-Dark/theme.txt",
+            "/ventoy/themes/ventoy-ocean-blue/theme.txt",
+            "/ventoy/themes/purple-theme/theme.txt",
+            "/ventoy/themes/ventoy-just-black/theme.txt",
+            "/ventoy/themes/ventoy-adwaita/theme.txt",
+            "/ventoy/themes/ventoy-adwaita-blue/theme.txt",
+            "/ventoy/themes/ventoy-pop/theme.txt"
+        ],
+        "default_file": 3
+    }
+}
