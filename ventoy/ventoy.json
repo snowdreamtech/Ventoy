@@ -43,6 +43,6 @@
             "/ventoy/themes/ventoy-adwaita-blue/theme.txt",
             "/ventoy/themes/ventoy-pop/theme.txt"
         ],
-        "default_file": 3
+        "resolution_fit": 1
     }
 }
